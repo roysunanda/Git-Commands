@@ -19,7 +19,7 @@ _If you are interested in my Git aliases, have a look at my `.bash_profile`, fou
 | ----------------------------------------------------------------- | --------------------------------------------------- |
 | `git init`                                                        | Initialize a local Git repository                   |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository Via SSH  |
-| `git clone http://domain.com/[user]/[repo].git`                   | Create a local copy of a remote repository Via HTTP |
+| `git clone https://github.com/[username]/[repository-name].git`                   | Create a local copy of a remote repository Via HTTP |
 
 ### Basic Snapshotting
 
