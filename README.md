@@ -29,7 +29,7 @@ _If you are interested in my Git aliases, have a look at my `.bash_profile`, fou
 | `git add [file-name.txt]`         | Add a file to the staging area                      |
 | `git add .`                       | Add all new and changed files to the staging area   |
 | `git commit -m "commit message"`  | Commit changes                                      |
-| `git commit -am "commit message"` | Commit skipping the staging area and adding message |
+| `git commit -am "commit message"` | Commit changes skipping the staging area and adding message (for modified and deleted files only) |
 | `git rm -r [file-name.txt]`       | Remove a file (or folder)                           |
 
 ### Branching & Merging
